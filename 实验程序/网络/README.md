@@ -4,6 +4,8 @@ https://latex.codecogs.com/gif.latex?%5Cmin_%7B1%20%5Cleq%20i%20%3C%20k%7D%28%5C
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
+![](https://latex.codecogs.com/gif.latex?%5Cmin_%7B1%20%5Cleq%20i%20%3C%20k%7D%28%5Cfrac%7B1%7D%7B%7B%28x_l_i%20-%20x_l_%7Bi&plus;1%7D%29%7D%5E2%20&plus;%20%7B%28y_l_i%20-%20y_l_%7Bi&plus;1%7D%29%7D%5E2%7D%29)
+
 ## 问题描述
 - 在计算机网络中，路由是一个核心问题——它决定了一个数据包在网络上的转发路径和带宽。
 - 我们考虑一个虚拟的计算机网络。在这个网络中，共有 n 台计算机，它们分别位于平面上的 (xi, yi) (1≤i≤n) 处。 任意两台计算机之间都有直接的链路相连。即，这是一个“全联通”的网络。

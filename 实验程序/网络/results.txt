@@ -1,0 +1,94 @@
+Total 80/100
+
+Test #1:
+score: 5
+Accepted
+time: 0ms
+memory: 2544kb
+Test #2:
+score: 5
+Accepted
+time: 0ms
+memory: 2640kb
+Test #3:
+score: 5
+Accepted
+time: 0ms
+memory: 2728kb
+Test #4:
+score: 5
+Accepted
+time: 0ms
+memory: 2716kb
+Test #5:
+score: 5
+Accepted
+time: 0ms
+memory: 2744kb
+Test #6:
+score: 5
+Accepted
+time: 0ms
+memory: 2724kb
+Test #7:
+score: 5
+Accepted
+time: 0ms
+memory: 2772kb
+Test #8:
+score: 5
+Accepted
+time: 0ms
+memory: 2856kb
+Test #9:
+score: 5
+Accepted
+time: 0ms
+memory: 2864kb
+Test #10:
+score: 5
+Accepted
+time: 0ms
+memory: 2780kb
+Test #11:
+score: 5
+Accepted
+time: 20ms
+memory: 3480kb
+Test #12:
+score: 5
+Accepted
+time: 96ms
+memory: 4540kb
+Test #13:
+score: 5
+Accepted
+time: 260ms
+memory: 6540kb
+Test #14:
+score: 5
+Accepted
+time: 392ms
+memory: 7796kb
+Test #15:
+score: 5
+Accepted
+time: 544ms
+memory: 9108kb
+Test #16:
+score: 5
+Accepted
+time: 720ms
+memory: 10444kb
+Test #17:
+score: 0
+Time Limit Exceeded
+Test #18:
+score: 0
+Time Limit Exceeded
+Test #19:
+score: 0
+Time Limit Exceeded
+Test #20:
+score: 0
+Time Limit Exceeded

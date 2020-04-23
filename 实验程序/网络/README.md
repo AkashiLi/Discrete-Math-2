@@ -1,17 +1,11 @@
 # A. 网络
-$ \min_{1 \leq i < k}(\frac{1}{{(x_l_i - x_l_{i+1})}^2 + {(y_l_i - y_l_{i+1})}^2})$
-https://latex.codecogs.com/gif.latex?%5Cmin_%7B1%20%5Cleq%20i%20%3C%20k%7D%28%5Cfrac%7B1%7D%7B%7B%28x_l_i%20-%20x_l_%7Bi&plus;1%7D%29%7D%5E2%20&plus;%20%7B%28y_l_i%20-%20y_l_%7Bi&plus;1%7D%29%7D%5E2%7D%29
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
-
-![](https://latex.codecogs.com/gif.latex?%5Cmin_%7B1%20%5Cleq%20i%20%3C%20k%7D%28%5Cfrac%7B1%7D%7B%7B%28x_l_i%20-%20x_l_%7Bi&plus;1%7D%29%7D%5E2%20&plus;%20%7B%28y_l_i%20-%20y_l_%7Bi&plus;1%7D%29%7D%5E2%7D%29)
 
 ## 问题描述
 - 在计算机网络中，路由是一个核心问题——它决定了一个数据包在网络上的转发路径和带宽。
 - 我们考虑一个虚拟的计算机网络。在这个网络中，共有 n 台计算机，它们分别位于平面上的 (xi, yi) (1≤i≤n) 处。 任意两台计算机之间都有直接的链路相连。即，这是一个“全联通”的网络。
 - 每条“直接链路”上都有一定的带宽，为 1 / (这两台计算机的欧几里得距离平方)。
 - 当两台计算机进行通信时，它们会选择一条路径（计算机的非空序列），并通过这条路径依次转发数据。而这条路径的带宽，即为路径上各链路带宽的最小值。
-- 形式化地说，计算机 ss 和 tt 在通信时会选择一个非空序列 {l1,l2,⋯,lk}，满足 l1=s,lk=tl。此时，这次通信的带宽为 min1≤i<k{1(xli−xli+1)2+(yli−yli+1)2}
+- 形式化地说，计算机 ss 和 tt 在通信时会选择一个非空序列 {l1,l2,⋯,lk}，满足 l1=s,lk=tl。此时，这次通信的带宽为 <img src="https://render.githubusercontent.com/render/math?math=\min_{1 \leq i < k}(\frac{1}{{(x_l_i - x_l_{i+1})}^2 + {(y_l_i - y_l_{i+1})}^2}) = -1">
 - 现在我们想知道，对于编号为 ss 的计算机和编号为 tt 的计算机，它们进行通信时，最大可能的带宽是多少。
 - 为了避免精度误差，你只需输出答案的倒数。
 

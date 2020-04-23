@@ -1,0 +1,119 @@
+Test #1:
+score: 5
+Accepted
+time: 0ms
+memory: 2648kb
+
+Test #2:
+score: 0
+Wrong Answer
+time: 0ms
+memory: 2484kb
+
+Test #3:
+score: 5
+Accepted
+time: 0ms
+memory: 2480kb
+
+Test #4:
+score: 5
+Accepted
+time: 0ms
+memory: 2492kb
+
+Test #5:
+score: 5
+Accepted
+time: 0ms
+memory: 2656kb
+
+Test #6:
+score: 0
+Wrong Answer
+time: 0ms
+memory: 2636kb
+
+Test #7:
+score: 0
+Wrong Answer
+time: 0ms
+memory: 2744kb
+
+Test #8:
+score: 5
+Accepted
+time: 0ms
+memory: 2588kb
+
+Test #9:
+score: 5
+Accepted
+time: 0ms
+memory: 2664kb
+
+Test #10:
+score: 0
+Wrong Answer
+time: 0ms
+memory: 2480kb
+
+Test #11:
+score: 5
+Accepted
+time: 0ms
+memory: 2656kb
+
+Test #12:
+score: 5
+Accepted
+time: 0ms
+memory: 2500kb
+
+Test #13:
+score: 5
+Accepted
+time: 0ms
+memory: 2672kb
+
+Test #14:
+score: 0
+Wrong Answer
+time: 0ms
+memory: 2652kb
+
+Test #15:
+score: 0
+Wrong Answer
+time: 20ms
+memory: 2828kb
+
+Test #16:
+score: 0
+Wrong Answer
+time: 32ms
+memory: 2872kb
+
+Test #17:
+score: 5
+Accepted
+time: 40ms
+memory: 2800kb
+
+Test #18:
+score: 5
+Accepted
+time: 56ms
+memory: 2932kb
+
+Test #19:
+score: 5
+Accepted
+time: 72ms
+memory: 3040kb
+
+Test #20:
+score: 5
+Accepted
+time: 76ms
+memory: 3044kb

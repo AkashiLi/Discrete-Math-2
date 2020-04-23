@@ -11,8 +11,8 @@ This includes labs done for discrete mathematics course. Our code was judged usi
 ## 第二实验
 本实验有三个题目：
 - A. 网络
-- B. 必修课(2)
-- C. 色数
+- B. 色数
+- C. 必修课(2)
 
 ## 第三实验
 本实验有三个题目：

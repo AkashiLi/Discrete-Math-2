@@ -1,6 +1,6 @@
 # A. 网络
 $ \min_{1 \leq i < k}(\frac{1}{{(x_l_i - x_l_{i+1})}^2 + {(y_l_i - y_l_{i+1})}^2})$
-
+https://latex.codecogs.com/gif.latex?%5Cmin_%7B1%20%5Cleq%20i%20%3C%20k%7D%28%5Cfrac%7B1%7D%7B%7B%28x_l_i%20-%20x_l_%7Bi&plus;1%7D%29%7D%5E2%20&plus;%20%7B%28y_l_i%20-%20y_l_%7Bi&plus;1%7D%29%7D%5E2%7D%29
 
 ## 问题描述
 - 在计算机网络中，路由是一个核心问题——它决定了一个数据包在网络上的转发路径和带宽。
